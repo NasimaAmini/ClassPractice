@@ -1,4 +1,4 @@
-package demo;
+package demo_nasima;
 
 public class ClassPractice {
 	public static void main(String[] args) {
